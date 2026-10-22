@@ -1,6 +1,6 @@
 # Sri Sooraj Swaminathan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=26&pause=900&color=888888&center=true&vCenter=true&width=640&lines=I+break+things+to+understand+them.;Web+%26+network+pentesting.;Reverse+engineering+%26+malware.;Red+teaming+LLM+agents.;Wrote+every+challenge+in+a+CTF.;Close+to+the+metal+%E2%80%94+xv6+kernel+hacks.;B.Tech+%2B+M.Tech+CSE+%40+IIITDM+Kancheepuram.)](https://git.io/typing-svg)
+<p align="center"><img src="assets/typing.svg" alt="I break things to understand them." width="760"></p>
 
 ---
 
