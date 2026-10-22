@@ -1,31 +1,23 @@
 ### Hi, I'm Sooraj 👋
 
-Offensive security : web & network pentesting, reverse engineering, and AI security.
-B.Tech + M.Tech (CSE) at IIITDM Kancheepuram.
+I like taking things apart — web apps, Windows binaries, and the ML models people now ship inside their products.
 
-**Interests:** web application pentesting · network & Active Directory pentesting · malware analysis & reverse engineering · LLM / agent red teaming · adversarial ML
+Dual-degree CSE student at IIITDM Kancheepuram (B.Tech + M.Tech, '28). I help run CTFs with the campus Cybersecurity Club and I'm working towards CPTS.
 
----
+### Things I've built
 
-#### Projects
+**[LLM-Exploit-Simulator](https://github.com/srioo10/LLM-Exploit-Simulator)** — a banking chatbot I made vulnerable on purpose. You talk it into revealing a debug interface, dig through its logs for a token, then poison its knowledge base. Seven steps from *"how do you store data?"* to full prompt injection.
 
-| Project | What it is | Highlight |
-|---|---|---|
-| [**WaveFence**](https://github.com/srioo10/WaveFence) | Spectral diagnostics and defences for adversarial robustness in vision models | MeanLip predicts PGD robustness without running an attack (Spearman \|ρ\| = 0.788, p = 0.035) |
-| [**LLM-Exploit-Simulator**](https://github.com/srioo10/LLM-Exploit-Simulator) | Deliberately vulnerable LLM banking agent | 7-stage chain: prompt injection → RAG poisoning → insecure tool calls |
-| [**Meef**](https://github.com/srioo10/Meef) | Compiler-style static analyser for Windows PE malware | C/Yacc frontend → 3-address-code IR → ML + heuristic triage · [live demo](https://malwareanalysis22.streamlit.app/) |
-| [**XV4 / ChronoFS**](https://github.com/srioo10/XV4) | Versioned filesystem in the xv6 kernel | Copy-on-write blocks, snapshots, crash recovery, journaling |
+**[Meef](https://github.com/srioo10/Meef)** — reads Windows executables the way a compiler would: control-flow graph and opcodes → three-address-code IR → an ML + heuristic malware verdict.
 
-#### Currently
+**[WaveFence](https://github.com/srioo10/WaveFence)** — can you tell how robust a vision model is *without* attacking it? A spectral metric (MeanLip) predicted PGD robustness across ImageNette models surprisingly well (|ρ| = 0.788).
 
-- Web pentesting on PortSwigger Web Security Academy and machines on Hack The Box (CPTS path)
-- Starting bug bounty hunting; pwn.college and picoCTF on the side — write-ups coming soon
-- Building an evaluation benchmark for LLM-Exploit-Simulator (attack success across open models, defences and bypasses)
+**[XV4](https://github.com/srioo10/XV4)** — gave the xv6 kernel a time machine: every write creates a new block version, with snapshots, restore, and crash recovery.
 
-#### Toolbox
+### Right now
 
-`C` `C++` `Python` `x86 asm` `Bash` · `Ghidra` `x64dbg` `IDA` `YARA` `Volatility` `Wireshark` · `PyTorch` `Hugging Face` `LangChain` · `Linux` `Docker` `Git`
+- Working through PortSwigger Web Security Academy and Hack The Box machines
+- Starting bug bounty on web targets
+- Testing how well common prompt-injection defences actually hold up
 
-#### Contact
-
-[LinkedIn](https://linkedin.com/in/sri-sooraj-swaminathan-b07b17289) · srioo1006@gmail.com
+[srioo1006@gmail.com](mailto:srioo1006@gmail.com) · [LinkedIn](https://linkedin.com/in/sri-sooraj-swaminathan-b07b17289)
