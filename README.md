@@ -1,6 +1,6 @@
 ### Hi, I'm Sooraj 👋
 
-Offensive security — web & network pentesting, reverse engineering, and AI security.
+Offensive security : web & network pentesting, reverse engineering, and AI security.
 B.Tech + M.Tech (CSE) at IIITDM Kancheepuram.
 
 **Interests:** web application pentesting · network & Active Directory pentesting · malware analysis & reverse engineering · LLM / agent red teaming · adversarial ML
