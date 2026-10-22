@@ -15,13 +15,13 @@
 
 ### Things I've built
 
-**[LLM-Exploit-Simulator](https://github.com/srioo10/LLM-Exploit-Simulator)** — a banking chatbot I made vulnerable on purpose. Seven steps from *"how do you store data?"* to full prompt injection.
+**[LLM-Exploit-Simulator](https://github.com/srioo10/LLM-Exploit-Simulator)** : a banking chatbot I made vulnerable on purpose. Seven steps from *"how do you store data?"* to full prompt injection.
 
-**[Meef](https://github.com/srioo10/Meef)** — reads Windows executables the way a compiler would: CFG + opcodes → three-address-code IR → ML + heuristic malware verdict.
+**[Meef](https://github.com/srioo10/Meef)** : reads Windows executables the way a compiler would: CFG + opcodes → three-address-code IR → ML + heuristic malware verdict.
 
-**[WaveFence](https://github.com/srioo10/WaveFence)** — predicting a vision model's adversarial robustness without attacking it (MeanLip, |ρ| = 0.788).
+**[WaveFence](https://github.com/srioo10/WaveFence)** : predicting a vision model's adversarial robustness without attacking it (MeanLip, |ρ| = 0.788).
 
-**[XV4](https://github.com/srioo10/XV4)** — gave the xv6 kernel a time machine: versioned blocks, snapshots, crash recovery.
+**[XV4](https://github.com/srioo10/XV4)** : gave the xv6 kernel a time machine: versioned blocks, snapshots, crash recovery.
 
 ---
 
@@ -29,7 +29,7 @@
 
 Working through PortSwigger and Hack The Box on the CPTS path. Starting bug bounty.
 
-Open to security internships and research, 2027–28 — **[srioo1006@gmail.com](mailto:srioo1006@gmail.com)**
+Open to security internships and research , contact: **[srioo1006@gmail.com](mailto:srioo1006@gmail.com)**
 
 ---
 
